@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bwmarrin/discordgo"
+	"github.com/matterbridge/discordgo"
 	"github.com/pkg/errors"
 	irc "github.com/qaisjp/go-ircevent"
 	log "github.com/sirupsen/logrus"
